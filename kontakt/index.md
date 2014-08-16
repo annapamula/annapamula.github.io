@@ -1,6 +1,6 @@
 ---
 title: kontakt
-layout: default
+layout: contact
 ---
 <h2 style="color: #999999; margin-top: 50px">Kontakt</h2>
 <div style="float: left; width: 400px; font-size: 16px">
