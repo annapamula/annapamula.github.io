@@ -8,7 +8,7 @@ layout: default
             class="img-responsive">
     </div>
     <div style="float: none; width: auto; text-justify: newspaper">
-        <div class="blurb">
+        <div class="blurb" style="font-size: 1.1em">
             <p>Rozpoczynałam pracę na oddziale neurologicznym w szpitalu w Bydgoszczy. Po pięciu latach dałam się poznać jako bardzo dobry organizator pracy i szybko zdobywałam wiedzę, która pozwoliła mi na awans kierowniczy.
             </p>
 
