@@ -10,9 +10,26 @@
 
         <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=PT+Sans:400' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="media/main.css">
-
-        <link rel="alternate" type="application/rss+xml" href="/~asampson/blog.xml" title="Atom">
+        <link rel="stylesheet" href="/media/main.css">
+        <script src="https://maps.googleapis.com/maps/api/js"></script>
+        <script>
+        function initialize() {
+          var map_canvas = document.getElementById('map_canvas');
+          var pos = new google.maps.LatLng(53.193, 18.038);
+          var map_options = {
+            center: pos,
+            zoom: 10,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+          }
+          var map = new google.maps.Map(map_canvas, map_options)
+          var marker = new google.maps.Marker({
+            position: pos,
+            map: map,
+            title: "Anna Pamuła"
+          })
+        }
+        google.maps.event.addDomListener(window, 'load', initialize);
+        </script>
     </head>
 
         <body>
@@ -23,27 +40,21 @@
                         <a href="/">dr n. med. Anna Pamuła</a><br />
                         <small>specjalista pielęgniarstwa neurologicznego</small>
                     </h1>
-                    <!--- <address>
-                        <a href="http://www.cs.washington.edu">Computer
-                            Science &amp; Engineering</a>
-                        <a href="http://www.washington.edu">University of
-                            Washington</a>
-                    </address> -->
                 </div>
                 <nav>
                     <a href="/">
                         o mnie
                     </a>
                     
-                    <a href="oferta/">
+                    <a href="/oferta/">
                         oferta
                     </a>
                     
-                    <a href="aktualnosci/">
+                    <a href="/aktualnosci/">
                         aktualności
                     </a>
                     
-                    <a href="kontakt.html">
+                    <a href="/kontakt/">
                         kontakt
                     </a>
                 </nav>
