@@ -8,7 +8,7 @@ layout: default
             class="img-responsive">
     </div>
     <div style="float: none; width: auto; text-justify: newspaper">
-        <div class="blurb" style="font-size: 1.1em">
+        <div class="blurb" style="font-size: 14px">
             <p>Rozpoczynałam pracę na oddziale neurologicznym w szpitalu w Bydgoszczy. Po pięciu latach dałam się poznać jako bardzo dobry organizator pracy i&nbsp;szybko zdobywałam wiedzę, która pozwoliła mi na awans kierowniczy.
             </p>
 
@@ -17,7 +17,7 @@ layout: default
             </p>
             
             <p>Po dwuletniej specjalizacji z neurologii zakończonej egzaminem państwowym w Warszawie, napisałam rozprawę doktorską. W marcu 2012 r przystąpiłam do obrony doktoratu, którą poprzedziło zdanie wszystkich wymaganych egzaminów doktoranckich. Posiadam tytuł doktora nauk medycznych w dziedzinie medycyna.  Mój doktorat to kliniczna praca badawcza pt.: „Tolerancja leczenia immunomodulacyjnego i immunosupresyjnego u chorych na stwardnienie rozsiane w&nbsp;ocenie klinicznej i hematologicznej” obrona w Collegium Medicum im. Ludwika Rydygiera w Bydgoszczy, Wydział Nauk o&nbsp;Zdrowiu.
-            Pomimo ciągłego podnoszenia kwalifikacji i doskonalenia posiadanych umiejętności, możliwości awansu oraz dalszego rozwoju w dotychczasowym miejscu pracy wyczerpały się. W związku z tym szukam nowych wyzwań. Stąd pomysł na własną działalność.</p>
+            Pomimo ciągłego podnoszenia kwalifikacji i doskonalenia posiadanych umiejętności, możliwości awansu oraz dalszego rozwoju w dotychczasowym miejscu pracy wyczerpały się. W&nbsp;związku z tym szukam nowych wyzwań. Stąd pomysł na własną działalność.</p>
         </div>
     </div>
 </div>
