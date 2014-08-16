@@ -33,7 +33,7 @@ layout: contact
 </div>
 
 <div id="map_canvas"></div>
-<h3 style="color: #999999; float: left">Formularz kontaktowy</h3>
+<!---<h3 style="color: #999999; float: left">Formularz kontaktowy</h3> -->
 <!---
 <div class="form-inline">
 <form action="...">
