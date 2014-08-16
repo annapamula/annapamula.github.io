@@ -1,4 +1,4 @@
 ---
-title: oferta
+title: artykuły
 layout: default
 ---

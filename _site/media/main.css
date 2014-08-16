@@ -90,6 +90,7 @@ hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   height: 0;
+  color: #ffffff;
 }
 pre {
   overflow: auto;
@@ -330,7 +331,7 @@ hr {
   margin-top: 10px;
   margin-bottom: 10px;
   border: 0;
-  border-top: 1px solid #eeeeee;
+  border-top: 1px solid #bbbbbb;
 }
 .sr-only {
   position: absolute;
@@ -6039,7 +6040,6 @@ img.illus {
 }
 #map_canvas {
   width: 450px;
-  height: 350px;
+  height: 326px;
   float: right; 
-  padding: 5px 30px 10px 0
 }
