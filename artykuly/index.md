@@ -11,7 +11,7 @@ layout: post
         <a href="{{ post.url }}">{{ post.title }}</a>
     </h3>
     <div class="excerpt" style="margin-top: 10px">
-        <p>Krótkie info o danym poście</p>
+        <p>{{ post.excerpt }}</p>
     </div>
 </article>
 {% endfor %}

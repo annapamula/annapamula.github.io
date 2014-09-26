@@ -6045,3 +6045,27 @@ img.illus {
   height: 279px;
   float: right; 
 }
+
+#images {
+  float:left;
+  margin-right:10px;
+}
+
+#images img {
+  width:200px;
+  padding:10px;
+}
+
+#full {
+  float:right;
+  width:50%;
+  height:600px;
+}
+
+.selected {
+  background-color:gray;
+}
+
+#caption {
+  clear:left;
+}

@@ -8,3 +8,5 @@ url: "http://localhost:4000"
 markdown: rdiscount
 permalink: pretty
 highlighter: pygments
+piwigo_gallery:  
+    baseurl: /certyfikaty/

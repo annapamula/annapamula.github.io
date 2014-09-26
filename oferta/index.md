@@ -5,35 +5,36 @@ layout: default
 <h2 style="color: #999999; margin-top: 50px">Oferta</h2>
 <hr>
 <h3>Osoby zakwalifikowane do kuracji immunomodulacyjnej</h3>
-
-Tutaj znajdują się wstępne informacje dla osoby zakwalifikowanej do leczenia
-immunomodulacyjnego. Trzeba napisać parę słów mimo wszystko.
-
+<br>
+Osoby przystępujące do tego typu kuracji powinny poszerzyć swoją wiedzę o następujące elementy:
 <ul>
-    <li>jak przygotować preparat (nie wystarczy przeczytać ulotkę)</li>
-    <li>jak wyznaczyć miejsca wkłucia i je monitorować (kiedy dane miejsce wyłączyć z iniekcji aby nie dopuścić do ISR (zmian skórnych i martwicy tkanki).</li>
-    <li>jak radzić sobie z objawami niepożądanymi (kontakt telefoniczny lub możliwość spotkania z osobą monitorującą kurację w każdej chwili)</li>
-    <li>jak zachować się podczas wykonywania iniekcji (pokonać strach i bezpiecznie się leczyć)</li>
-    <li>kiedy i jakie parametry krwi wykonać</li>
-    <li>kiedy zrobić konieczne kontrolne badania obrazowe</li>
+    <li>jak odpowiednio przygotować preparat biorąc pod uwagę indywidualne cechy każdej osoby</li>
+    <li>jak wyznaczyć miejsca wkłucia i je monitorować oraz kiedy dane miejsce wyłączyć z iniekcji aby nie dopuścić do zmian skórnych i martwicy tkanki</li>
+    <li>jak radzić sobie z niepożądanymi objawami</li>
+    <li>jak zachować się podczas wykonywania iniekcji, pokonać strach i bezpiecznie się leczyć</li>
+    <li>kiedy wykonać badania kontrolne krwi oraz badania obrazowe</li>
 </ul>
 
+<br><br>
 <h3>Przygotowanie indywidualnego programu dla chorego na SM</h3>
+
+<br>
+Pacjent powinien zdobyć następujące informacje:
 <ul>
     <li>kiedy korzystać z konsultacji neurologicznej</li>
-    <li>gdzie otrzymać leczenie aby nie czekać w długiej kolejce.</li>
-    <li>uzyskać odpowiedź na każde nurtujące cię pytanie dotyczące choroby, a także twojego samopoczucia.</li>
+    <li>gdzie otrzymać leczenie aby nie czekać w długiej kolejce</li>
+    <li>gdzie uzyskać odpowiedź na każde nurtujące pytanie dotyczące choroby a także twojego samopoczucia.</li>
     <li>jak uzyskać pomoc w różnych instytucjach, które mają obowiązek nieść pomoc chorym.</li>
 </ul>
-
-<h3>Praca z pacjentem</h3>
+<br>
+<br>
+<h3>Praca z pacjentem polega na:</h3>
 <ul>
-    <li>dobrym przygotowaniu do kuracji</li>
-    <li>monitorowaniu całej kuracji</li>
-    <li>stały kontakt telefoniczny i osobisty w zależności od potrzeby</li>
-    <li>współpraca z bardzo dobrymi neurologami bez oczekiwania w kolejce</li>
-    <li>jeśli zostaniesz zdyskwalifikowany do leczenia, dowiesz się jakie masz inne możliwości</li>
-    <li>jak zyć z SM aby funkcjonować normalnie i dbać o jakość życia z SM</li>
+    <li>dobrym przygotowaniu pacjenta i monitorowaniu całej kuracji</li>
+    <li>stałym kontakcie telefonicznym i osobistym w zależności od potrzeb</li>
+    <li>współpracy z bardzo dobrymi neurologami bez oczekiwania w kolejce</li>
+    <li>poszerzeniu możliwości leczenia w razie dyskwalifikacji z leczenia</li>
+    <li>edukacji pacjenta w zakresie funkcjonowania w życiu codziennym i dbaniu o jego jakość</li>
 </ul>
 
 
@@ -41,26 +42,19 @@ immunomodulacyjnego. Trzeba napisać parę słów mimo wszystko.
 <hr>
 <ul>
 Na pierwszą wizytę proszę zabrać dotychczasową dokumentację leczniczą, tj:
-    <li>wypis ze szpitala</li>
-    <li>badania obrazowe</li>
-    <li>dokumentację chorób współistniejących</li>
-    <li>należy przyjść z osobą towarzyszącą (jeśli pacjent sobie życzy)</li>
+    <li>wypis ze szpitala,</li>
+    <li>badania obrazowe,</li>
+    <li>dokumentację chorób współistniejących.</li>
 </ul>
 
-<h3>Pierwsza wizyta trwa około dwóch godzin</h3>
+<br>
+Pierwsza wizyta trwa około dwóch godzin, w trakcie których wykonuje się następujące czynności:
 <ul>
     <li>zebranie szczegółowego wywiadu</li>
     <li>określenie EDSS i badanie fizykalne</li>
 <li>kontrola wszystkich parametrów (waga, wzrost z obliczeniem BMI, temperatura ciała, RR aparatem  BOSA z programem komputerowym)</li>
     <li>przekazanie informacji o chorobie </li>
     <li>edukacja chorego.</li>
-</ul>
-
-<h3>Następna wizyta trwa w zależności od potrzeby</h3>
-<ul>
-    <li>badanie chorego (fizykalne i miejsc wkłuć)</li>
-    <li>indywidualny program monitorowania</li>
-    <li>określenie potrzeb i plan ich realizacji w celu poprawy jakości życia.</li>
 </ul>
 
 <h2 style="color: #999999; margin-top: 40px">Cennik</h2>
