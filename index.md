@@ -14,7 +14,7 @@ layout: default
 
 <hr>
 <h3>Dlaczego warto się skontaktować?</h3>
-Jestem dr. n. med. specjalistą pielęgniarstwa neurologicznego z wieloletnim doświadczeniem klinicznym.
+Jestem doktorem nauk medycznych oraz specjalistą pielęgniarstwa neurologicznego z wieloletnim doświadczeniem klinicznym.
 
 <ul>
 <li>Każdego pacjenta traktuję z szacunkiem i indywidualnym podejściem.</li>
