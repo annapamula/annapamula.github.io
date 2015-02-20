@@ -2,7 +2,7 @@
 title: artykuły
 layout: post
 ---
-{% for post in site.posts limit: 5 %}
+{% for post in site.posts %}
 <article class="preview">
     <p class="tagline">
         {{ post.date | date: "%-d %B %Y"}}
