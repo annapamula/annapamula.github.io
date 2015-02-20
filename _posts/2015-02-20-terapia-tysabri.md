@@ -1,9 +1,10 @@
 ---
 title: Terapia w stwardnieniu rozsianym (TYSABRI)
-layout: default
+layout: single_post
 tags:
 - stwardnianie-rozsiane
-excerpt: Prezentacja przedstawiająca metody leczenia dożylnego (TYSABRI).
+excerpt: Kuracja lekiem Tysabri jest bardzo obiecująca, ale również niesie za sobą przykre zdarzenia niepożądane. Jak chronić pacjentów na kuracji przed zdarzeniami niepożądanymi? Prezentacja przedstawia szkolenie na temat opieki pielęgniarskiej
+ i bezpiecznego podawania Tysabri - leku cenionego w środowisku medycznym i wsród chorych na SM.
 
 ---
 
