@@ -1,7 +1,58 @@
 ---
 title: o mnie
 layout: default
+imgfolder: /certyfikaty
+images:
+- name: cert1.png
+  thumb: cert1.png
+- name: cert2.png
+  thumb: cert2.png
+- name: cert3.png
+  thumb: cert3.png
+- name: cert4.png
+  thumb: cert4.png
+- name: cert5.png
+  thumb: cert5.png
+- name: cert6.png
+  thumb: cert6.png
+- name: cert7.png
+  thumb: cert7.png
+- name: cert8.png
+  thumb: cert8.png
+- name: cert9.png
+  thumb: cert9.png
+- name: cert10.png
+  thumb: cert10.png
+- name: cert11.png
+  thumb: cert11.png
+- name: cert12.png
+  thumb: cert12.png
+- name: cert13.png
+  thumb: cert13.png
+- name: cert14.png
+  thumb: cert14.png
+- name: cert15.png
+  thumb: cert15.png
+- name: cert16.png
+  thumb: cert16.png
+- name: cert17.png
+  thumb: cert17.png
+- name: cert18.png
+  thumb: cert18.png
+- name: cert19.png
+  thumb: cert19.png
+- name: cert20.png
+  thumb: cert20.png
+- name: cert21.png
+  thumb: cert21.png
+- name: cert22.png
+  thumb: cert2.png
 ---
+
+<script src="/js/jquery-1.11.0.min.js"></script>
+<script src="/js/lightbox.min.js"></script>
+<link href="/css/lightbox.css" rel="stylesheet" />
+
 <div style="position: relative; margin-top: 50px">
     <div style="width: 330px; float: left; padding: 5px 30px 10px 0">
         <img src="/img/anna_pamula.jpg" alt="me"
@@ -50,20 +101,62 @@ layout: default
 
 <h2 style="color: #999999; margin-top: 50px">Certyfikaty potwierdzające uczestnictwo w szkoleniach i&nbsp;konferencjach </h2>
 <hr>
+
+<div id="images">
+    <div class="row">
+        {% for image in page.images limit: 4%}
+        {% if include.image == null or include.image == image.name %}
+        <a href="{{ page.imgfolder }}/{{ image.name }}" data-lightbox="1" title="{{ image.text }}"><img src="{{ page.imgfolder }}/{{ image.thumb }}" title="{{ image.text }}"></a>
+        {% endif %}
+        {% endfor %}
+    </div>
+    <div class="row">
+        {% for image in page.images limit: 4 offset: 4%}
+        {% if include.image == null or include.image == image.name %}
+        <a href="{{ page.imgfolder }}/{{ image.name }}" data-lightbox="1" title="{{ image.text }}"><img src="{{ page.imgfolder }}/{{ image.thumb }}" title="{{ image.text }}"></a>
+        {% endif %}
+        {% endfor %}
+    </div>
+    <div class="row">
+        {% for image in page.images limit: 4 offset: 8%}
+        {% if include.image == null or include.image == image.name %}
+        <a href="{{ page.imgfolder }}/{{ image.name }}" data-lightbox="1" title="{{ image.text }}"><img src="{{ page.imgfolder }}/{{ image.thumb }}" title="{{ image.text }}"></a>
+        {% endif %}
+        {% endfor %}
+    </div>
+    <div class="row">
+        {% for image in page.images limit: 4 offset: 12%}
+        {% if include.image == null or include.image == image.name %}
+        <a href="{{ page.imgfolder }}/{{ image.name }}" data-lightbox="1" title="{{ image.text }}"><img src="{{ page.imgfolder }}/{{ image.thumb }}" title="{{ image.text }}"></a>
+        {% endif %}
+        {% endfor %}
+    </div>
+    <div class="row">
+        {% for image in page.images limit: 4 offset: 16%}
+        {% if include.image == null or include.image == image.name %}
+        <a href="{{ page.imgfolder }}/{{ image.name }}" data-lightbox="1" title="{{ image.text }}"><img src="{{ page.imgfolder }}/{{ image.thumb }}" title="{{ image.text }}"></a>
+        {% endif %}
+        {% endfor %}
+    </div>
+    <div class="row">
+        {% for image in page.images limit: 4 offset: 20%}
+        {% if include.image == null or include.image == image.name %}
+        <a href="{{ page.imgfolder }}/{{ image.name }}" data-lightbox="1" title="{{ image.text }}"><img src="{{ page.imgfolder }}/{{ image.thumb }}" title="{{ image.text }}"></a>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>
+<!--
 <div id="images">
     <div class="row">
         <img src="/certyfikaty/cert1.png" title="image 1" />
         <img src="/certyfikaty/cert2.png" title="image 2" />
-    </div>
-    <div class="row">
         <img src="/certyfikaty/cert3.png" title="image 3" />
         <img src="/certyfikaty/cert4.png" title="image 4" />
     </div>
     <div class="row">
         <img src="/certyfikaty/cert5.png" title="image 5" />
         <img src="/certyfikaty/cert6.png" title="image 6" />
-    </div>
-    <div class="row">
         <img src="/certyfikaty/cert7.png" title="image 7" />
         <img src="/certyfikaty/cert8.png" title="image 8" />
     </div>
@@ -71,40 +164,8 @@ layout: default
         <img src="/certyfikaty/cert9.png" title="image 9" />
     </div>
 </div>
+-->
 <div id="full"></div>
 <p id="caption"></p>
 
-<script>
-$('#full').gallery({
-    source: "#images img",
-    easing: "linear",
-    waitTime: 2000,
-    changeTime: 300,
-    showCaptions: true,
-    captionTarget: "#caption"
-});
 
-$("#full").on({
-    mouseenter: function() {
-        $("#full").gallery("stopAnimation");
-    },
-    mouseleave: function() {
-        $("#full").gallery("stopAnimation");
-    }
-});
-
-$("#full").on({
-    galleryimageload: function() {
-        console.log("new image loaded");
-    },
-    galleryclick: function() {
-        console.log("gallery source image clicked");
-    },
-    galleryanimationstop: function() {
-        console.log("gallery animation stopped");
-    },
-    galleryanimationresume: function() {
-        console.log("gallery animation resumed");
-    }
-});
-</script>
