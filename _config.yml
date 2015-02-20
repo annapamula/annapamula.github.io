@@ -1,7 +1,8 @@
 name: "Anna Pamuła"
 description: "Strona domowa"
 
-url: "http://localhost:4000"
+# url: "http://localhost:4000"
+url: "http://annapamula.github.io"
 
 # paginate: 10
 
