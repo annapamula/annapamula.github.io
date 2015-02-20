@@ -4,7 +4,6 @@ description: "Strona domowa"
 # url: "http://localhost:4000"
 url: "http://annapamula.github.io"
 
-paginate: 10
 markdown: rdiscount
 permalink: pretty
 highlighter: pygments

@@ -57,5 +57,5 @@ Pierwsza wizyta trwa około dwóch godzin, w trakcie których wykonuje się nast
     <li>edukacja chorego.</li>
 </ul>
 
-<h2 style="color: #999999; margin-top: 40px">Cennik</h2>
-<hr>
+<!-- <h2 style="color: #999999; margin-top: 40px">Cennik</h2>
+<hr> -->
