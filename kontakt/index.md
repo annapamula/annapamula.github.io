@@ -15,8 +15,8 @@ layout: contact
     <hr />
     <p><strong>email:</strong>&nbsp; <a href="mailto:apamula@vp.pl">
         <script language="JavaScript">
-        var username = " a.pamula";
-        var hostname = "vp.pl";
+        var username = " anna.pamula";
+        var hostname = "outlook.com";
         var linktext = username + "@" + hostname ;
         document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
         </script>
