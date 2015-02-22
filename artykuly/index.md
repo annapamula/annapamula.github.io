@@ -2,9 +2,10 @@
 title: artykuły
 layout: post
 ---
+
 {% for post in site.posts %}
 <article class="preview">
-    <p class="tagline">
+    <p class="tagline" style="margin-top: 40px">
         {{ post.date | date: "%-d %B %Y"}}
     </p>
     <h3>

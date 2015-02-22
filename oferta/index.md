@@ -5,7 +5,7 @@ layout: default
 <h2 style="color: #999999; margin-top: 50px">Oferta</h2>
 <hr>
 <h3>Osoby zakwalifikowane do kuracji immunomodulacyjnej</h3>
-<br>
+
 Osoby przystępujące do tego typu kuracji powinny poszerzyć swoją wiedzę o następujące elementy:
 <ul>
     <li>jak odpowiednio przygotować preparat biorąc pod uwagę indywidualne cechy każdej osoby</li>
@@ -15,10 +15,7 @@ Osoby przystępujące do tego typu kuracji powinny poszerzyć swoją wiedzę o n
     <li>kiedy wykonać badania kontrolne krwi oraz badania obrazowe</li>
 </ul>
 
-<br><br>
 <h3>Przygotowanie indywidualnego programu dla chorego na SM</h3>
-
-<br>
 Pacjent powinien zdobyć następujące informacje:
 <ul>
     <li>kiedy korzystać z konsultacji neurologicznej</li>
@@ -26,8 +23,7 @@ Pacjent powinien zdobyć następujące informacje:
     <li>gdzie uzyskać odpowiedź na każde nurtujące pytanie dotyczące choroby a także twojego samopoczucia.</li>
     <li>jak uzyskać pomoc w różnych instytucjach, które mają obowiązek nieść pomoc chorym.</li>
 </ul>
-<br>
-<br>
+
 <h3>Praca z pacjentem polega na:</h3>
 <ul>
     <li>dobrym przygotowaniu pacjenta i monitorowaniu całej kuracji</li>

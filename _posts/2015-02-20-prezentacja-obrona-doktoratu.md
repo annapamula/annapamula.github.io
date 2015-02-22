@@ -1,9 +1,9 @@
 ---
-title: Własne wyniki badań u chorych ze stwardnieniem rozsianym
+title: Własne wyniki badań u pacjentów z SM
 layout: single_post
 tags:
 - stwardnianie-rozsiane
-excerpt: Prezentacja z obrony doktoratu pt. Tolerancja leczenia immunodulacyjnego i immunosupresyjnego w ocenie klinicznej i hematologicznej.
+excerpt: Prezentacja z obrony doktoratu pt. Tolerancja leczenia immunodulacyjnego i&nbsp;immunosupresyjnego w&nbsp;ocenie klinicznej i hematologicznej.
 
 ---
 

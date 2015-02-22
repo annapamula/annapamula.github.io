@@ -6,7 +6,7 @@ layout: default
 <h2 style="color: #999999; margin-top: 50px">Szanowni Państwo,</h2>
 <hr>
 
-<p>Jeśli jesteś chory na stwardnienie rozsiane i poszukujesz profesjonalnej pomocy w monitorowaniu i przygotowaniu do nowych kuracji w stwardnieniu rozsianym, jeśli szukasz doświadczonej i wyrozumiałej osoby, która otoczy opieką i doradzi w najbardziej trudnych sprawach związanych z problemami neurologicznymi, zapraszam do <a href="/kontakt/">kontaktu</a>.</p>
+<p>Jeśli jesteś chory na stwardnienie rozsiane i poszukujesz profesjonalnej pomocy w monitorowaniu i&nbsp;przygotowaniu do nowych kuracji w stwardnieniu rozsianym, jeśli szukasz doświadczonej i wyrozumiałej osoby, która otoczy opieką i doradzi w najbardziej trudnych sprawach związanych z problemami neurologicznymi, zapraszam do <a href="/kontakt/">kontaktu</a>.</p>
 
 <p>Oferuję szeroki zakres usług profesjonalnego monitorowania leczenia i edukowania, wsparty wieloletnim doświadczeniem klinicznym i szeroką wiedzą na temat współpracy z chorymi na stwardnienie rozsiane. Zajmuję się kompleksowym przygotowaniem do terapii i opieką chorych neurologicznie na każdym etapie. Więcej szczegółów dotyczących mojego doświadczenia można znaleźć w dziale <a href="/omnie">o mnie</a>.</p>
 
@@ -28,7 +28,7 @@ chwili.</li>
 <li>Dla każdego przygotowuję indywidualny program współpracy.</li>
 
 <li>Lekarz nie zawsze dysponuje czasem dla pacjenta, zazwyczaj jest to 
-wizyta dotycząca przedłużenia leczenia i badania neurologicznego. Język 
+wizyta dotycząca przedłużenia leczenia i&nbsp;badania neurologicznego. Język 
 medyczny nie jest zawsze zrozumiały.</li>
 
 <li>Dla pacjenta ze stwardnieniem rozsianym na wizycie monitorującej 

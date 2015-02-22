@@ -2,33 +2,29 @@
 title: kontakt
 layout: contact
 ---
-<h2 style="color: #999999; margin-top: 50px">Kontakt</h2>
-<div style="float: left; width: 400px; font-size: 16px">
+<h2 style="color: #999999">Kontakt</h2>
+<div style="float: left; width: 380px; font-size: 16px">
     <hr />
-    <p><strong>Anna Pamuła</strong></p>
+    <strong>Anna Pamuła</strong>
     <hr />
-    <p>Jana Zamoyskiego 5</p>
+    Jana Zamoyskiego 5
     <hr />
-    <p>85-063 Bydgoszcz</p>
+    85-063 Bydgoszcz
     <hr />
-    <p><strong>tel:</strong> (+48) 668 84 74 84</p>
+    <strong>tel:</strong> (+48) 668 84 74 84
     <hr />
-    <p><strong>email:</strong>&nbsp; <a href="mailto:apamula@vp.pl">
+   <strong>email:</strong>&nbsp; <a href="mailto:apamula@vp.pl">
         <script language="JavaScript">
         var username = " anna.pamula";
         var hostname = "outlook.com";
         var linktext = username + "@" + hostname ;
         document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
         </script>
-    </a></p>
-    <hr />
-    <p>
-        <a href="http://pl.linkedin.com/pub/anna-pamu%C5%82a/6a/498/519">
-      
-          <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" alt="Wyświetl profil Anny Pamuła">
-        
     </a>
-    </p>
+    <hr />
+        <a href="http://pl.linkedin.com/pub/anna-pamu%C5%82a/6a/498/519">
+            <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" alt="Wyświetl profil Anny Pamuła">
+        </a>
     <hr />
 </div>
 

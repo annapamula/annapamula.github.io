@@ -392,12 +392,9 @@ h6 .small,
 h1,
 .h1,
 h2,
-.h2,
+.h2 
 h3,
-.h3 {
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
+.h3,
 h1 small,
 .h1 small,
 h2 small,
@@ -460,7 +457,7 @@ h6,
   font-size: 12px;
 }
 p {
-  margin: 0 0 10px;
+  margin: 0 0 20px;
 }
 .lead {
   margin-bottom: 20px;
@@ -468,6 +465,7 @@ p {
   font-weight: 200;
   line-height: 1.4;
 }
+
 @media (min-width: 768px) {
   .lead {
     font-size: 21px;
@@ -564,7 +562,7 @@ a.bg-danger:hover {
 ul,
 ol {
   margin-top: 0;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 ul ul,
 ol ul,
@@ -735,17 +733,17 @@ pre code {
 }
 @media (min-width: 768px) {
   .container {
-    width: 900px;
+    width: 800px;
   }
 }
 @media (min-width: 992px) {
   .container {
-    width: 900px;
+    width: 800px;
   }
 }
 @media (min-width: 1200px) {
   .container {
-    width: 900px;
+    width: 800px;
   }
 }
 .container-fluid {
@@ -5786,7 +5784,7 @@ header {
   margin-bottom: 50px;
   color: #7c9cbc;
   font-family: 'Noto Serif', sans-serif;
-  text-align: center
+  text-align: left
 }
 header a:hover {
   text-decoration: none;
@@ -6041,7 +6039,7 @@ img.illus {
   height: 100%;
 }
 #map_canvas {
-  width: 450px;
+  width: 380px;
   height: 279px;
   float: right; 
 }

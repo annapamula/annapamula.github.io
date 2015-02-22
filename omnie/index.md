@@ -46,7 +46,7 @@ images:
 - name: cert21.jpg
   thumb: cert21.jpg
 - name: cert22.jpg
-  thumb: cert2.jpg
+  thumb: cert22.jpg
 ---
 
 <script src="/js/jquery-1.11.0.min.js"></script>
@@ -60,10 +60,10 @@ images:
     </div>
     <div style="float: none; width: auto; text-justify: newspaper">
         <div class="blurb" style="font-size: 14px">
-            <p>Rozpoczynałam pracę na oddziale neurologicznym w szpitalu w Bydgoszczy. Po pięciu latach dałam się poznać jako bardzo dobry organizator pracy i&nbsp;szybko zdobywałam wiedzę, która pozwoliła mi na awans kierowniczy.
+            <p>Rozpoczynałam pracę na oddziale neurologicznym w szpitalu w&nbsp;Bydgoszczy. Po pięciu latach dałam się poznać jako bardzo dobry organizator pracy i&nbsp;szybko zdobywałam wiedzę, która pozwoliła mi na awans kierowniczy.
             </p>
 
-            <p>Powołano mnie do pracy w nowopowstałym Wojskowym Szpitalu w&nbsp;Bydgoszczy. Organizowałam zespół i&nbsp;urządzałam Klinikę od podstaw. Moja wiedza i&nbsp;zdolności organizacji pracy oraz zdobywanie kwalifikacji poprzez szkolenia i&nbsp;specjalizację, a także udział w najważniejszych konferencjach krajowych i&nbsp;zagranicznych pozwoliły na dodatkowy awans w charakterze członka zespołu oraz koordynatora w międzynarodowych projektach badawczych.
+            <p>Powołano mnie do pracy w nowopowstałym Wojskowym Szpitalu w&nbsp;Bydgoszczy. Organizowałam zespół i&nbsp;urządzałam Klinikę od podstaw. Moja wiedza i&nbsp;zdolności organizacji pracy oraz zdobywanie kwalifikacji poprzez szkolenia, specjalizację, a także udział w najważniejszych konferencjach krajowych i&nbsp;zagranicznych pozwoliły na dodatkowy awans w charakterze członka zespołu oraz koordynatora w międzynarodowych projektach badawczych.
             Poza podstawowymi obowiązkami kierownika zespołu, od 1998 r. zajmowałam się realizacją prób klinicznych i&nbsp;monitorowaniem nowych kuracji w różnych schorzeniach  neurologicznych  w szczególności chorymi na stwardnienie rozsiane. Realizowałam kontrakt z&nbsp;NFZ podpisany przez szpital  od 2005 r. Tworzyłam program opieki nad chorymi ze stwardnieniem rozsianym,  leczonych różnymi preparatami. Logistycznie przygotowałam formę realizacji kontraktu. Zgodnie z wymaganiami Platformy Europejskiej program opieki rozszerzałam na cały kraj przeprowadzając ogromną ilość szkoleń i warsztatów dla pielęgniarek pracujących w wielu znaczących ośrodkach neurologicznych.
             </p>
             
@@ -76,7 +76,7 @@ images:
 <h2 style="color: #999999; margin-top: 50px">Doświadczenie</h2>
 <hr>
 
-<p>34 lata doświadczenia zawodowego, w tym 28 lat kierowania zespołem, przygotowywanie i edukowanie  zespołu do pracy z pacjentem. Organizowanie i przeprowadzanie szkoleń wewnątrzoddziałowych. Prowadzenie wykładów związanych z tematyką kliniczną i  neurologiczną na terenie Polski. 17 lat  monitorowania nowych terapii u chorych na SM i inne schorzenia neurologiczne.</p>
+<p>34 lata doświadczenia zawodowego, w tym 28 lat kierowania zespołem, przygotowywanie i edukowanie zespołu do pracy z&nbsp;pacjentem. Organizowanie i przeprowadzanie szkoleń wewnątrzoddziałowych. Prowadzenie wykładów związanych z&nbsp;tematyką kliniczną i  neurologiczną na terenie Polski. 17 lat  monitorowania nowych terapii u chorych na SM i inne schorzenia neurologiczne.</p>
 
 <p>W latach 1999-2013 uczestnik międzynarodowych projektów klinicznych. Członek zespołu badawczego, koordynator badań. Edukowanie pacjentów i monitorowanie przebiegu nowych kuracji w SM i innych schorzeniach neurologicznych.</p>
 
@@ -99,7 +99,7 @@ images:
     <li>PRI/TOP – INT - 19 (TOPAMAT – EPAJ - 119), 1999</li>
 </ul>
 
-<h2 style="color: #999999; margin-top: 50px">Certyfikaty potwierdzające uczestnictwo w szkoleniach i&nbsp;konferencjach </h2>
+<h2 style="color: #999999; margin-top: 50px">Konferencje i szkolenia</h2>
 <hr>
 
 <div id="images">
