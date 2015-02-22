@@ -6046,12 +6046,11 @@ img.illus {
 
 #images {
   float:left;
-  margin-right:10px;
 }
 
 #images img {
-  width:200px;
-  padding:10px;
+  width: 190px;
+  padding: 20px;
 }
 
 #full {
