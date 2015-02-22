@@ -2,7 +2,7 @@
 title: oferta
 layout: default
 ---
-<h2 style="color: #999999; margin-top: 50px">Oferta</h2>
+<h2 style="color: #999999">Oferta</h2>
 <hr>
 <h3>Osoby zakwalifikowane do kuracji immunomodulacyjnej</h3>
 
