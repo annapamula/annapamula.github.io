@@ -47,6 +47,8 @@ images:
   thumb: cert21.jpg
 - name: cert22.jpg
   thumb: cert22.jpg
+- name: cert23.jpg
+  thumb: cert23.jpg
 ---
 
 <script src="/js/jquery-1.11.0.min.js"></script>
