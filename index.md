@@ -3,6 +3,10 @@ title: strona główna
 layout: default
 ---
 
+<!--
+Oferta badań klinicznych: TO DO
+-->
+
 <h2 style="color: #999999; margin-top: 50px">Szanowni Państwo,</h2>
 <hr>
 
