@@ -4,6 +4,5 @@ description: "Strona domowa dr Anny Pamuła"
 # url: "http://localhost:4000"
 url: "http://annapamula.github.io"
 
-markdown: rdiscount
 permalink: pretty
 highlighter: rouge
