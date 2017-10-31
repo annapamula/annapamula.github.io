@@ -14,6 +14,8 @@ layout: post
     <div class="excerpt" style="margin-top: 20px">
         <p>{{ post.excerpt }}</p>
     </div>
+    {% if forloop.last == false %}
     <hr style="margin-top: 20px">
+    {% endif %}
 </article>
 {% endfor %}
