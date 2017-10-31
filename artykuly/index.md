@@ -8,7 +8,7 @@ layout: post
     <p class="tagline" style="margin-top: 40px">
         {{ post.date | date: "%-d %B %Y"}}
     </p>
-    <h3>
+    <h3 style="margin-top: 20px">
         <a href="{{ post.url }}">{{ post.title }}</a>
     </h3>
     <div class="excerpt" style="margin-top: 10px">
