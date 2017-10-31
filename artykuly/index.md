@@ -5,7 +5,7 @@ layout: post
 
 {% for post in site.posts %}
 <article class="preview">
-    <p class="tagline" style="margin-top: 40px">
+    <p class="tagline" style="margin-top: 20px">
         {{ post.date | date: "%-d %B %Y"}}
     </p>
     <h3 style="margin-top: 20px">
@@ -15,7 +15,7 @@ layout: post
         <p>{{ post.excerpt }}</p>
     </div>
     {% if forloop.last == false %}
-    <hr style="margin-top: 20px">
+    <hr style="margin-top: 20px; margin-bottom: 20px">
     {% endif %}
 </article>
 {% endfor %}
