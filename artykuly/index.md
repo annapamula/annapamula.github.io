@@ -11,7 +11,7 @@ layout: post
     <h3 style="margin-top: 20px">
         <a href="{{ post.url }}">{{ post.title }}</a>
     </h3>
-    <div class="excerpt" style="margin-top: 10px">
+    <div class="excerpt" style="margin-top: 20px">
         <p>{{ post.excerpt }}</p>
     </div>
 </article>

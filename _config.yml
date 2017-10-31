@@ -6,4 +6,4 @@ url: "http://annapamula.github.io"
 
 markdown: rdiscount
 permalink: pretty
-highlighter: pygments
+highlighter: rouge
