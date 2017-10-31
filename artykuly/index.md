@@ -14,6 +14,6 @@ layout: post
     <div class="excerpt" style="margin-top: 20px">
         <p>{{ post.excerpt }}</p>
     </div>
-    <hr />
+    <hr style="margin-top: 20px">
 </article>
 {% endfor %}
